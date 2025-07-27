@@ -118,4 +118,4 @@ your-app-name/
 
 ---
 
-> Written with 💻 and ☕ by [Your Name]
+> Written with 💻 and ☕ by [AKR]
